@@ -12,3 +12,4 @@ Describe features of Natural Language Processing (NLP) workloads on Azure (25–
 
 # Resources
 https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900
+https://vritika.medium.com/microsoft-azure-ai-fundamentals-ai-900-how-to-prepare-and-pass-the-exam-279f66a74a8c
